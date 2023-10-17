@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: prints "Programming is like building a multilingual puzzle" using puts function instead of printf
+ * Description: prints on the screen using puts function instead of printf
  *
  * Return: Always 0 (Success)
  */
