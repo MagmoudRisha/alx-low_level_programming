@@ -1,9 +1,12 @@
 #include <stdio.h>
 
-/*
-* this program for using puts function instead printf
-*/
-
+/**
+ * main - Entry point
+ *
+ * Description: prints "Programming is like building a multilingual puzzle" using puts function instead of printf
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
